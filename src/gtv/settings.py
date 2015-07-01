@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django.contrib.gis',
     'gpx_track',
+    'photo',
 )
 
 MIDDLEWARE_CLASSES = (
